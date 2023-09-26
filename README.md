@@ -1,9 +1,8 @@
 # Welcome to BioTutor: Your personalised AI Tutor for Bioelectronics
-# This is an exploratory project by Prof Adam A. Stokes into the use of generative AI in teaching
-# For more information on my thoughts and motivations please read the article below (co-authored by Prof Tim Drysdale)
-# https://www.teaching-matters-blog.ed.ac.uk/generative-artificial-intelligence-ban-or-embrace/
-
-# This project is forked from the original Mr. Ranedeer AI Tutor by [@yupiop12](https://twitter.com/yupiop12)
+- This is an exploratory project by Prof Adam A. Stokes into the use of generative AI in teaching
+- For more information on my thoughts and motivations please read the article below (co-authored by Prof Tim Drysdale)
+- https://www.teaching-matters-blog.ed.ac.uk/generative-artificial-intelligence-ban-or-embrace/
+- This project is forked from the original Mr. Ranedeer AI Tutor by [@yupiop12](https://twitter.com/yupiop12) and configured for Bioelectronics.
 
 ## Why use the BioTutor?
 
