@@ -1,4 +1,4 @@
-# AI Tutor Personalization Options
+# BioTutor Personalization Options
 
 This section outlines the various configuration options available to students using the AI Tutor. These options can be modified to customize the learning experience.
 

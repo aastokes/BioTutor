@@ -1,11 +1,9 @@
-# Mr. Ranedeer: Your personalized AI Tutor!
+# BioTutor: Your personalized AI BioTutor!
 
-Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
-
-Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
+Unlock the potential of GPT-4 with BioTutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
 
 ## Table of Contents
-- [Mr. Ranedeer: Your personalized AI Tutor!](#mr-ranedeer-your-personalized-ai-tutor)
+- [Your personalized BioTutor!](#mr-ranedeer-your-personalized-ai-tutor)
   - [Table of Contents](#table-of-contents)
   - [Why Mr. Ranedeer AI Tutor?](#why-mr-ranedeer-ai-tutor)
   - [Requirements and Compatibility](#requirements-and-compatibility)
