@@ -1,9 +1,9 @@
 # BioTutor: Your personalised AI BioTutor!
 
-Unlock the potential of GPT-4 with BioTutor, a customisable prompt that delivers personalised learning experiences for users with diverse needs and interests.
+Unlock the potential of GPT-4 with AI BioTutor, a customisable prompt that delivers a personalised learning experience. Primarily tuned for University of Edinburgh Students studying Bioelectronics with Prof. Adam A. Stokes, but open to anyone who wishes to explore this prompt. 
 
 ## Table of Contents
-- [Your personalised BioTutor!](#biotutor)
+- [Welcome to your personalised AI BioTutor!](#biotutor)
   - [Table of Contents](#table-of-contents)
   - [Why BioTutor?](#why-biotutor)
   - [Requirements and Compatibility](#requirements-and-compatibility)
@@ -16,23 +16,23 @@ Unlock the potential of GPT-4 with BioTutor, a customisable prompt that delivers
 
 ## Why BioTutor?
 BioTutor allows you to:
-- Adjust the depth of knowledge to match your learning needs
-- Customise your learning style, communication type, tone, and reasoning framework
-- Create the ultimate AI tutor tailored just for you
+- Adjust the depth of knowledge to match your learning needs.
+- Customise your learning style, communication type, tone, and reasoning framework.
+- Import the course guide to ELM enabling you to check your progress against the step by step framework of the course.
 
 ## Requirements and Compatibility
 
 ### Recommended
-- OpenAI ChatGPT Plus Subscription with GPT-4 or above models.
+- Use the University of Edinburgh ELM (Edinburgh Large-Language Model via elm.edina.ac.uk), or another GPT-4 interface.
 
 ### Not Recommended
 - Default and Legacy GPT-3.5
 
 ## Quick Start Guide
-1. Visit [ChatGPT](https://chat.openai.com/chat)
-2. Select the GPT-4 (or above) model
-3. Copy and paste the contents of BioTutor.json into the prompt
-4. Let BioTutor guide you through the configuration process
+1. Visit [ELM](https://elm.edina.ac.uk/)
+2. Import the course guide as a document (Download from the LEARN environment).
+3. Copy and paste the contents of BioTutor.json into the prompt.
+4. Let BioTutor guide you through your personalised configuration process.
 5. Start learning!
 
 # Prompt Format
